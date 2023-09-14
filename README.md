@@ -8,3 +8,4 @@
 
 ## Activity 4
 ![Alt text](/activity4.png?raw=true "Activity 4")
+![Alt text](/activity4.1.png?raw=true "Activity 4")
