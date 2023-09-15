@@ -19,7 +19,7 @@
 ![Alt text](/activity5.2.png?raw=true "Activity 5")
 
 
-### First attempt, 4 commits
+### Second attempt, 4 commits
 ![Alt text](/activity5.3.png?raw=true "Activity 5")
 ![Alt text](/activity5.4.png?raw=true "Activity 5")
 ![Alt text](/activity5.5.png?raw=true "Activity 5")
